@@ -2,3 +2,6 @@
 
 ## Description
 This folder contains materials related to design thinking activity.
+-report
+[Tis Project.pdf](https://github.com/user-attachments/files/24623255/Tis.Project.pdf)
+
