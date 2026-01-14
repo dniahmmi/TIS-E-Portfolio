@@ -5,5 +5,3 @@ This folder contains materials related to the industry talk attended for TIS cou
 
 ## Contents
 - Poster
-- Report
-- Notes
